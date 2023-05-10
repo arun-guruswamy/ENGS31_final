@@ -1,2 +1,6 @@
-# ENGS31_final
-Final project for ENGS31
+# ENGS31 Final Project 
+
+## Project Choice: 
+
+## Team: Arun, Sam
+
